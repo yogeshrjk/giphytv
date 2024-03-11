@@ -1,0 +1,39 @@
+html {
+    position: relative;
+    height: 100vh;
+}
+body {
+	margin: 0 auto;
+	background:  #1c1c1c;
+}
+
+
+.container {
+	padding-top: 60px;
+}
+
+
+.button {
+	width: 10%;
+	display: block;
+	padding: 5px;
+	background-color: gray;
+	color: #1c1c1c;
+	font-size: 14px;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	border: 2px solid white;
+	position: absolute;
+	top: 3rem;
+	left: 3rem;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.image {
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	display: block;
+	border: 5px solid white;
+	border-radius: 20px;
+}
